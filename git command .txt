@@ -1,0 +1,26 @@
+01 Git clone xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+02 cd floder name 
+03 pwd
+04 echo "Hello world " > Hello world.txt
+05 ls
+06 git add .
+06 git commit -m "my frist commit"
+07 git push origin master
+08 git remote -v 
+09 git pull origin master
+10 ls
+10 cat hello.txt
+11 git checkout -b develop 
+12 echo "java code "> java.txt
+13 git add .
+14 git commit -m "java code"
+15 git push origin develop 
+12 echo "net cod "> net.txt
+13 git add .
+14 git commit -m "net code"
+15 git push origin develop 
+
+
+
+
+
